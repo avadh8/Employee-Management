@@ -10,8 +10,13 @@ namespace EmployeeManagement.Data
 
         }
         public DbSet<Employee> Employees { get; set; }
+        
+
+        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+          
+
             modelBuilder.Entity<Employee>().HasData(
              new Employee
              {
@@ -55,6 +60,8 @@ namespace EmployeeManagement.Data
     }
         );
         }
+
+
 
 
 

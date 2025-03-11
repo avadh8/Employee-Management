@@ -1,11 +1,13 @@
 ﻿using System.ComponentModel;
 using EmployeeManagement.Data;
 using EmployeeManagement.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 
 namespace EmployeeManagement.Controllers
 {
+   
     public class EmployeeController : Controller
     {
         private readonly EmployeeDbContext _db;
