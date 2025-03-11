@@ -4,7 +4,7 @@
 1. ### file structure
 ![Screenshot 2025-03-10 182545](https://github.com/user-attachments/assets/4d01e1e1-cebc-4800-8ffe-969eac1e58cd)
     
-2. ### right click on solution and after click on that click on Manage NuGate packages install packages bellow 3 packages
+2. ### right click on solution and after click on that click on Manage NuGate packages install packages bellow 3 packages(with same version 9.0.0)
 ![Screenshot (47)](https://github.com/user-attachments/assets/a65172c0-1e02-496f-980d-849a28336936)
 ![Screenshot (46)](https://github.com/user-attachments/assets/245f0f7c-d0d9-4f99-86f1-70fbf7754701)
     
